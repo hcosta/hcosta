@@ -19,9 +19,9 @@
 <a href="https://twitter.com/hektorprofe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hektorprofe" height="30" width="40" /></a>
 <a href="https://medium.com/@hektorprofe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hektorprofe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/servorius" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="servorius" height="30" width="40" /></a>
-<a href="/https://hektor.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://hektor.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://hektor.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://hektor.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Estadísticas recientes</h3>
+<h3 align="left">Stats</h3>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hcosta&show_icons=true&locale=en" alt="hcosta" /></p>
