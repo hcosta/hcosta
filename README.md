@@ -3,7 +3,9 @@
 
 - 🔭 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.
 
-- 🌱 Me interesa mucho utilizar la **programación** como herramienta para **visualizar** conceptos.
+- 🌱 Me interesa utilizar la **programación** como herramienta para **visualizar** conceptos.
+
+- 🎓 En mi [academia](https://www.hektorprofe.net/) online enseño conceptos relacionados con Python y JavaScript.
 
 - 📝 Desde hace poco estoy publicando lo que se me ocurre en mi [blog](https://hektor.dev/).
 
