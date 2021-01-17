@@ -1,9 +1,9 @@
 <h1 align="left">Hola 👋, soy Hektor</h1>
 <h3 align="left">Un apasionado programador e instructor de España.</h3>
 
-- 🔭 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.
+- 🌱 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.
 
-- 🌱 Me interesa utilizar la **programación** como herramienta para **visualizar** conceptos.
+- 🔭 Me interesa utilizar la **programación** como herramienta para **visualizar** conceptos.
 
 - 🎓 En mi [academia](https://www.hektorprofe.net/) online enseño conceptos relacionados con Python y JavaScript.
 
