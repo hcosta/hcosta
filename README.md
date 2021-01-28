@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.
 
-- 🔭 También estudio el potencial de la programación y el desarrollo de videojuegos como herramientas educativas.
+- 🔭 Estudio el potencial de la programación y el desarrollo de videojuegos como herramientas educativas.
 
 - 🎓 En mi [academia](https://www.hektorprofe.net/) online enseño programación básica con Python y JavaScript.
 
