@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.
 
-- 🔭 Me interesa utilizar la **programación** como herramienta para **visualizar** conceptos.
+- 🔭 Me meta es utilizar la **programación y los videojuegos** como herramientas para visualizar conceptos.
 
 - 🎓 En mi [academia](https://www.hektorprofe.net/) online enseño conceptos relacionados con Python y JavaScript.
 
