@@ -5,7 +5,7 @@
 
 - 🔭 Estudio el potencial de la programación y el desarrollo de videojuegos en la educación.
 
-- 🎓 En mi [academia](https://www.hektorprofe.net/) online enseño programación básica con Python y JavaScript.
+- 🎓 En mi [archivo](https://docs.hektorprofe.net/) tengo muchos cursos y tutoriales sobre Python y JavaScript.
 
 - 👨‍💻 Todos mis proyectos se pueden encontrar en mi [portafolio](https://hektor.dev/portafolio).
 
