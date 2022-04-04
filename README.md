@@ -1,10 +1,11 @@
 <h1 align="left">Hola 👋, soy Hektor</h1>
 <h3 align="left">Un apasionado programador e instructor de España.</h3>
 
-<!--- 🔭 Actualmente estoy desarrollando [un motor](https://github.com/hcosta/2d-engine) de videojuegos 2D con C++ y SDL.-->
-- 🌱 Me interesa el estudio de la programación para su aplicación gráfica y en los videojuegos.
+- 🎓 Soy el creador del [Curso Maestro de Python 3](https://www.hektorprofe.net/cupon/python) en Udemy con más de 65.000 estudiantes.
 
-- 🎓 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes, tutoriales y cursos sobre Python, JS, Unity, etc.
+- 🌱 Me interesa mucho el estudio de la programación para su aplicación gráfica y en los videojuegos.
+
+- 📝 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes, tutoriales y cursos sobre Python, Django, JS, Unity, etc.
 
 <!-- - 👨‍💻 Mis proyectos personales se pueden encontrar en mi [portafolio](https://hektor.dev/portafolio).
 
