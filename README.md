@@ -1,5 +1,5 @@
-<h1 align="left">Hola 👋, soy Hektor</h1>
-<h3 align="left">Un apasionado programador e instructor de España.</h3>
+<h1 align="left">Hola 👋, me llamo Hektor!</h1>
+<h3 align="left">Soy un apasionado programador e instructor de España.</h3>
 
 - 🎓 Soy el creador del [Curso Maestro de Python 3](https://www.hektorprofe.net/cupon/python) en Udemy con más de 65.000 estudiantes.
 
