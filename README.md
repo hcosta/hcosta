@@ -5,7 +5,7 @@
 
 - 🌱 Muy interesado en el estudio de la programación para su aplicación gráfica y en los videojuegos.
 
-- 📝 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes y tutoriales sobre Python, Django, JavaScript, gráficos...
+- 📝 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes y tutoriales sobre Python, Django, C++, Gráficos 3D, JavaScript...
 
 <!-- - 👨‍💻 Mis proyectos personales se pueden encontrar en mi [portafolio](https://hektor.dev/portafolio).
 
