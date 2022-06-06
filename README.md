@@ -1,11 +1,11 @@
-<h1 align="left">Hola 👋, me llamo Hektor!</h1>
-<h3 align="left">Soy un apasionado programador e instructor de España.</h3>
+<h1 align="left">Hola 👋, aquí Hektor 😎</h1>
+<h3 align="left">Soy un apasionado programador e instructor de España:</h3>
 
-- 🎓 Soy el creador del [Curso Maestro de Python 3](https://www.hektorprofe.net/cupon/python) en Udemy con más de 65.000 estudiantes.
+- 🎓 Creador del [Curso Maestro de Python 3](https://www.hektorprofe.net/cupon/python) en Udemy con más de 65.000 estudiantes.
 
-- 🌱 Me interesa mucho el estudio de la programación para su aplicación gráfica y en los videojuegos.
+- 🌱 Muy interesado en el estudio de la programación para su aplicación gráfica y en los videojuegos.
 
-- 📝 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes, tutoriales y cursos sobre Python, Django, JS, Unity, etc.
+- 📝 En mi [archivo](https://docs.hektorprofe.net/) tengo cientos de apuntes y tutoriales sobre Python, Django, JavaScript, gráficos...
 
 <!-- - 👨‍💻 Mis proyectos personales se pueden encontrar en mi [portafolio](https://hektor.dev/portafolio).
 
