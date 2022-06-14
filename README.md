@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td align="center"><img src="icons/cpp.svg" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/cpp/">Programación en C++</a></td>
-        <td align="center"><img src="icons/3d.gif" height="24" width="24" align="top"/> &nbsp;<a href="https://docs.hektorprofe.net/graficos-3d/">Gráficos 3D en C++ y SDL</a></td>
+        <td align="center"><img src="icons/3d.gif" height="23" width="23" align="top"/> &nbsp;<a href="https://docs.hektorprofe.net/graficos-3d/">Gráficos 3D en C++ y SDL</a></td>
         <td align="center"><img src="icons/opengl.svg" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/opengl/">OpenGL básico en Python</a></td>
     </tr>
     <tr>
@@ -43,15 +43,12 @@
         <td align="center">🤮</td>
     </tr>
     <tr>
-        <td align="center"><img src="icons/python.svg" alt="python" width="80" height="80" align="middle" /></td>
-        <td align="center"><img src="icons/cpp.svg" alt="cplusplus" width="70" height="70" align="middle" /></td>
+        <td align="center"><img src="icons/python.svg" alt="python" width="60" height="60" align="middle" /></td>
+        <td align="center"><img src="icons/cpp.svg" alt="cplusplus" width="60" height="60" align="middle" /></td>
         <td align="center"><img src="icons/csharp.svg" alt="csharp" width="60" height="60" align="middle" /></td>
         <td align="center"><img src="icons/c.svg" alt="c" width="60" height="60" align="middle" /></td>
-        <td align="center"><img src="icons/php.svg" alt="php" width="60" height="60" align="middle" /></td>
-        <td align="center"><img src="icons/js.svg" alt="javascript" width="65" height="65" align="middle" /></td>
-        <td align="center"><img src="icons/java.svg" alt="java" width="80" height="80" align="middle" /></td>
+        <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>
+        <td align="center"><img src="icons/js.svg" alt="javascript" width="50" height="50" align="middle" /></td>
+        <td align="center"><img src="icons/java.svg" alt="java" width="52" height="52" align="middle" /></td>
     </tr>
 </table>
-
-<h3 align="left">🤖 Estadísticas de actividad:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hcosta&show_icons=true&locale=en" alt="hcosta" /></p>
