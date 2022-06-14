@@ -47,8 +47,8 @@
         <td align="center"><img src="icons/csharp.svg" alt="csharp" width="60" height="60" align="middle" /></td>
         <td align="center"><img src="icons/cpp.svg" alt="cplusplus" width="60" height="60" align="middle" /></td>
         <td align="center"><img src="icons/c.svg" alt="c" width="60" height="60" align="middle" /></td>
-        <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>
         <td align="center"><img src="icons/js.svg" alt="javascript" width="50" height="50" align="middle" /></td>
+        <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>
         <td align="center"><img src="icons/java.svg" alt="java" width="52" height="52" align="middle" /></td>
     </tr>
 </table>
