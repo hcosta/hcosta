@@ -1,6 +1,6 @@
-<h1 align="left">👋 Hola mundo, aquí Hektor Profe 😎</h1>
+<h1 align="left">👋 Hola mundo, aquí Hektor Profe</h1>
 
-<h3 align="left"> 👨‍ Soy un instructor español apasionado por la programación:</h3>
+<h3 align="left"> 😎 Soy un instructor español apasionado por la programación:</h3>
 
 - 🌱 Creador del <a href="https://www.hektorprofe.net/cupon/python" target="_blank">Curso Maestro de Python</a> en Udemy con más de 65.000 estudiantes.
 - 🎓 Formado en administración de sistemas y desarrollo de aplicaciones informáticas.
