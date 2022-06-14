@@ -31,7 +31,7 @@
     </tr>
 </table>
 
-<h3 align="left">👍 Top lenguajes de programación:</h3>
+<h3 align="left">👍 Mi top lenguajes de programación:</h3>
 <table>
     <tr>
         <td align="center">😍</td>
