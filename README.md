@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hola mundo, aquí Hektor Profe</h1>
+<h1 align="left">👋 Hola mundo, aquí Hektor</h1>
 
 <h3 align="left"> 😎 Soy un instructor español apasionado por la programación:</h3>
 
