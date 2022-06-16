@@ -31,7 +31,7 @@
     </tr>
 </table>
 
-<h3 align="left">👍 Mis lenguajes favoritosn:</h3>
+<h3 align="left">👍 Mis lenguajes favoritos:</h3>
 <table>
     <tr>
         <td align="center">😍</td>
