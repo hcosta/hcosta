@@ -30,25 +30,26 @@
         <td align="center"><img src="icons/hektor.png" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/">Y mucho más en mi archivo</a></td>
     </tr>
 </table>
-
+<!--
 <h3 align="left">👍 Top de mis lenguajes favoritos:</h3>
 <table>
     <tr>
         <td align="center">😍</td>
         <td align="center">😊</td>
         <td align="center">🙂</td>
-        <!--<td align="center">😐</td>
+        <td align="center">😐</td>
         <td align="center">🤒</td>
         <td align="center">🤢</td>
-        <td align="center">🤮</td>-->
+        <td align="center">🤮</td>
     </tr>
     <tr>
         <td align="center"><img src="icons/python.svg" alt="python" width="80" height="80" align="middle" /></td>
         <td align="center"><img src="icons/cpp.svg" alt="cplusplus" width="65" height="65" align="middle" /></td>
         <td align="center"><img src="icons/csharp.svg" alt="csharp" width="50" height="50" align="middle" /></td>
-        <!--<td align="center"><img src="icons/c.svg" alt="c" width="60" height="60" align="middle" /></td>
+        <td align="center"><img src="icons/c.svg" alt="c" width="60" height="60" align="middle" /></td>
         <td align="center"><img src="icons/js.svg" alt="javascript" width="50" height="50" align="middle" /></td>
         <td align="center"><img src="icons/java.svg" alt="java" width="52" height="52" align="middle" /></td>
-        <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>-->
+        <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>
     </tr>
 </table>
+-->
