@@ -6,7 +6,7 @@
 - 🥰 Mi lenguaje favorito es Python por su simplicidad, me enamoró al descubrirlo durante mis prácticas.
 - ‍💰 Al principio de mi carrera me especialicé en programación web, incluso cofundé mi propio estudio.
 - 🧑‍🏫 En 2015 empecé como [instructor en Udemy](https://www.udemy.com/user/hctorcostaguzmn/) enseñando Python, tengo cerca de 200.000 estudiantes.
-- 🧠 Actualmente estoy centrado en aprender sobre gráficos y videojuegos, principalmente con C++ y C#.
+- 🧠 Actualmente estoy centrado en aprender sobre el renderizado de gráficos y el desarrollo de videojuegos.
 - 📝 Me encanta compartir todo lo que aprendo, abajo os dejo una lista de mis mejores apuntes.
 
 <h3 align="left">📋 Archivo personal con documentación, tutoriales y ejemplos</h3>
