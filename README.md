@@ -1,6 +1,6 @@
-<h1 align="left">Hola mundo, aquí Hektor! 🖖</h1>
+<h1 align="left">💪 Hola mundo, aquí Hektor! </h1>
 
-<h3 align="left">💪 Soy un instructor de programación especialista en Python </h3>
+<h3 align="left">🎮 Instructor especialista en Python y amante de los videojuegos</h3>
 
 - 🎓 Formado en administración de sistemas y desarrollo de aplicaciones informáticas.
 - 🥰 Mi lenguaje favorito es Python por su simplicidad, me enamoró al descubrirlo durante mis prácticas.
