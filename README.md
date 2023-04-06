@@ -1,4 +1,4 @@
-<h1 align="left">💪 Hola mundo, aquí Hektor Profe! </h1>
+<h1 align="left">💪 Hola mundo, aquí Hektor! </h1>
 
 <h3 align="left">Instructor especialista en Python y amante de los videojuegos 🎮</h3>
 
