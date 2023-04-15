@@ -1,5 +1,13 @@
 <h1 align="left">💪 Hola mundo, aquí Hektor! </h1>
 
+<h3 align="left">Nuevo curso: ChatGPT para Programadores</h3>
+
+Incorpora ya la inteligencia artificial en tu trabajo y multiplica tu productividad exponencialmente.
+
+<a href="https://www.hektorprofe.net/cupon/chatgpt"><img src="course-chatgpt.jpg" align="center"/></a> 
+
+<span align="center"><i>Haz clic en la imagen para acceder a la promoción de lanzamiento</i></span>
+
 <h3 align="left">Instructor especialista en Python y amante de los videojuegos 🎮</h3>
 
 - 🎓 Formado en administración de sistemas y desarrollo de aplicaciones informáticas.
