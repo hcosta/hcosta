@@ -1,6 +1,6 @@
 <h1 align="left">💪 Hola mundo, aquí Hektor! </h1>
 
-<h3 align="left">Nuevo curso: ChatGPT para Programadores</h3>
+<h3 align="left">Nuevo curso: ChatGPT para Programadores (2023)</h3>
 
 Incorpora ya la inteligencia artificial en tu trabajo y multiplica tu productividad exponencialmente.
 
