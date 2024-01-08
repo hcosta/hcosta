@@ -34,7 +34,7 @@
         <td align="left"><img src="icons/hektor.png" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/">Y más en mi archivo...</a></td>
     </tr>
 </table>
-
+<!--
 <h3 align="left">🤔 Top lenguajes de programación (sin rencores)</h3>
 
 <table>
@@ -56,6 +56,6 @@
         <td align="center"><img src="icons/java.svg" alt="java" width="52" height="52" align="middle" /></td>
         <td align="center"><img src="icons/php.svg" alt="php" width="55" height="55" align="middle" /></td>
     </tr>
-</table>
+</table>-->
 
 <!-- Test -->
