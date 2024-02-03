@@ -1,4 +1,4 @@
-<h1 align="left">💪 Hola mundo, aquí Hektor! </h1>
+<h1 align="left">Hola mundo, aquí Hektor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="left">Instructor especialista en Python, actualmente enfocado en Godot</h3>
 
