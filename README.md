@@ -7,8 +7,8 @@
 - ‍💰 Al principio de mi carrera me especialicé en programación web, incluso cofundé mi propio estudio.
 - 🧑‍🏫 En 2015 empecé como [instructor en Udemy](https://www.udemy.com/user/hctorcostaguzmn/) enseñando Python, tengo más de 200K estudiantes.
 - 🎮 Desde 2023 estoy preparando un proyecto para enseñar a desarrollar videojuegos con Godot.
-- 📝 Me encanta compartir todo lo que aprendo, abajo os dejo una lista de mis mejores apuntes.
-
+- 📝 Me encanta compartir todo lo que aprendo, [en mis documentos](https://docs.hektorprofe.net) tengo cientos de apuntes.
+<!--
 <h3 align="left">📋 Archivo personal con documentación, tutoriales y ejemplos</h3>
 
 <table>
@@ -34,7 +34,7 @@
         <td align="left"><img src="icons/hektor.png" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/">Y más en mi archivo...</a></td>
     </tr>
 </table>
-<!--
+
 <h3 align="left">🤔 Top lenguajes de programación (sin rencores)</h3>
 
 <table>
