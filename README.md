@@ -28,7 +28,6 @@
         <td align="left"><img src="icons/gm.png" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/escueladevideojuegos/academia-gamemaker/">Videojuegos en GM</a></td>
     </tr>
     <tr>
-        <!--<td><img src="icons/python.svg" width="24" height="24" align="top"/> <a href="https://docs.hektorprofe.net/academia/">Recopilación de Shaders</a></td>-->
         <td align="left"><img src="icons/p5.png" height="22" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/javascript/biblioteca-p5js/">JavaScript visual en p5.js</a></td>
         <td align="left"><img src="icons/linux.svg" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/gnu-linux/ubuntu-server-web/">Configurar server Ubuntu</a></td>
         <td align="left"><img src="icons/hektor.png" height="24" align="center"/> &nbsp;<a href="https://docs.hektorprofe.net/academia/">Y más en mi archivo...</a></td>
