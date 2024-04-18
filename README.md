@@ -2,7 +2,7 @@
 
 <h3 align="left">Instructor especialista en Python, actualmente enfocado en Godot</h3>
 
-- 🎓 Formado en administración de sistemas y desarrollo de aplicaciones informáticas.
+- 🎓 Soy un emprendedor formado en administración de sistemas y desarrollo de aplicaciones informáticas.
 - 🥰 Mi lenguaje favorito es Python por su simplicidad, me enamoró al descubrirlo durante mis prácticas.
 - ‍💰 Al principio de mi carrera me especialicé en programación web, incluso cofundé mi propio estudio.
 - 🧑‍🏫 En 2015 empecé como [instructor en Udemy](https://www.udemy.com/user/hctorcostaguzmn/) enseñando Python, tengo más de 200K estudiantes.
