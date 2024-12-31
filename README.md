@@ -6,9 +6,9 @@
 - 🥰 Mi lenguaje favorito es Python por su simplicidad, me enamoró al descubrirlo durante mis prácticas.
 - ‍💰 Al principio de mi carrera me especialicé en programación web, incluso cofundé mi propio estudio.
 - 🧑‍🏫 En 2015 empecé como [instructor en Udemy](https://www.udemy.com/user/hctorcostaguzmn/) enseñando Python, tengo más de 200K estudiantes.
-- 🎮 Desde 2023 estoy preparando un proyecto para enseñar a desarrollar videojuegos con Godot.
 - 📝 Me encanta compartir todo lo que aprendo, [en mis documentos](https://docs.hektorprofe.net) tengo cientos de apuntes.
 <!--
+- 🎮 Desde 2023 estoy preparando un proyecto para enseñar a desarrollar videojuegos con Godot.
 <h3 align="left">📋 Archivo personal con documentación, tutoriales y ejemplos</h3>
 
 <table>
